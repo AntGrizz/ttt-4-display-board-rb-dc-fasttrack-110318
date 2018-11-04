@@ -9,6 +9,6 @@ def display_board
 
 end
 
-board = [" ", " ", " ", " ". " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 display_board(board)
