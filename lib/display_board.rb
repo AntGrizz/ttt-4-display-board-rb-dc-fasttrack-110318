@@ -13,3 +13,17 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 
 display_board(board)
+
+def display_board(board2)
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+
+end
+
+board2 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+
+
+display_board(board2)
